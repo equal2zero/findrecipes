@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/findrecipes/static/css/main.d00c634b.css",
+    "main.js": "/findrecipes/static/js/main.f307c9ec.js",
+    "static/js/787.bb84ef91.chunk.js": "/findrecipes/static/js/787.bb84ef91.chunk.js",
+    "static/media/logo.svg": "/findrecipes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/findrecipes/index.html",
+    "main.d00c634b.css.map": "/findrecipes/static/css/main.d00c634b.css.map",
+    "main.f307c9ec.js.map": "/findrecipes/static/js/main.f307c9ec.js.map",
+    "787.bb84ef91.chunk.js.map": "/findrecipes/static/js/787.bb84ef91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d00c634b.css",
+    "static/js/main.f307c9ec.js"
+  ]
+}
